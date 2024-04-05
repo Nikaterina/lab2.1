@@ -1,6 +1,10 @@
 import sys
 import re
 
+
+
+
+
 way = '../../output_file.txt'
 
 
